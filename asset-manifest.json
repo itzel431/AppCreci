@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AppCrecii/static/css/main.8b422fcf.css",
+    "main.js": "/AppCrecii/static/js/main.9191eb54.js",
+    "static/media/BEBE2.mp3": "/AppCrecii/static/media/BEBE2.02b6f09d7a12ffd036e4.mp3",
+    "static/media/BEBE5.mp3": "/AppCrecii/static/media/BEBE5.8a0719a993e4c5169504.mp3",
+    "static/media/BEBE1.mp3": "/AppCrecii/static/media/BEBE1.7b1971ec4173489f35ca.mp3",
+    "static/media/BEBE4.mp3": "/AppCrecii/static/media/BEBE4.896716f0ba7fec67ceb7.mp3",
+    "static/media/BEBE3.mp3": "/AppCrecii/static/media/BEBE3.b8d7220aa64e99f1353c.mp3",
+    "static/media/logocreci.png": "/AppCrecii/static/media/logocreci.2b9d428520725d1924ca.png",
+    "static/media/R.jpeg": "/AppCrecii/static/media/R.cfe0e8f213a9145fa8f8.jpeg",
+    "static/media/baby-shower-cute-background-illustration-ai-generative-free-photo.jpg": "/AppCrecii/static/media/baby-shower-cute-background-illustration-ai-generative-free-photo.d417e2fc0b117c38306a.jpg",
+    "static/media/background.jpg": "/AppCrecii/static/media/background.5214faea19ecd3f97a5d.jpg",
+    "static/media/Premium.mp3": "/AppCrecii/static/media/Premium.d9d5136e94972a3d7716.mp3",
+    "static/media/boton.mp3": "/AppCrecii/static/media/boton.41e6818de1dcefb11c0c.mp3",
+    "static/media/BABY.webp": "/AppCrecii/static/media/BABY.a95b7ae4abed8152fef6.webp",
+    "static/media/fondo-premium.png": "/AppCrecii/static/media/fondo-premium.96cce4a6bbc3412cf994.png",
+    "static/media/Fondo-premium.avif": "/AppCrecii/static/media/Fondo-premium.8cf319d36fb5bc49518b.avif",
+    "index.html": "/AppCrecii/index.html",
+    "main.8b422fcf.css.map": "/AppCrecii/static/css/main.8b422fcf.css.map",
+    "main.9191eb54.js.map": "/AppCrecii/static/js/main.9191eb54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b422fcf.css",
+    "static/js/main.9191eb54.js"
+  ]
+}
